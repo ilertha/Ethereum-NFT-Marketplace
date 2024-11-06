@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "web3": "^1.8.1"
+  },
+  "name": "implementation_v1_test",
+  "version": "1.0.0",
+  "main": "ImpV1.test.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test ImpV1.test.js"
+  },
+  "author": "pooria-sarkhanzade (PooriaGG)",
+  "license": "ISC",
+  "description": ""
+}
