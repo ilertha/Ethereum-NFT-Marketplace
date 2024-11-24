@@ -22,8 +22,6 @@ After connecting your wallet if you are visiting for the first time, you must go
 # Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@Becklix](https://t.me/@Becklix)
-
 X: [@james980114](https://x.com/james980114)
 
 Discord: [@Benix](https://discordapp.com/users/393598468653842432)
