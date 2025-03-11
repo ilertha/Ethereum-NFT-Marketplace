@@ -22,6 +22,6 @@ After connecting your wallet if you are visiting for the first time, you must go
 # Contact me
 If you need more technical support and development inquires, you can contact below.
 
-X: [@ethualtera](https://x.com/ethualtera)
+X: [@ilertha](https://x.com/ilertha)
 
 Thanks.
